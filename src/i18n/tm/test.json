@@ -1,0 +1,12 @@
+{
+    "greeting": "Hemmanize salam",
+    "welcome": {
+        "mr": "Salam Jenap {name}",
+        "mrs": "Salam Hanym {name}"
+    },
+    "animals": [
+        "gujuk",
+        "pisik",
+        "balyk"
+    ]
+}
